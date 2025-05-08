@@ -27,6 +27,11 @@
 	width:760px;
 }
 
+.center-tables{
+  width: 100%;
+  margin: auto;
+}
+
 .itemTable {
 	margin: 0px auto;
 	border-spacing: 20px 20px;
