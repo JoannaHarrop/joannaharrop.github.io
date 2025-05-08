@@ -1,0 +1,135 @@
+.siteHeader {
+	margin: 0px auto;
+	border-spacing: 25px;
+    border-collapse: separate;
+	max-width: 1077px;
+}
+
+*{
+   margin: 0;
+   padding: 0;
+   /* ect styles */
+}
+
+/* Image over text header homepage */
+.top-left-table-header {
+  position:relative;
+  top:-240px;
+  left:16px;
+  font-weight:bold
+}
+
+/* Image over text homepage */
+.top-left-table-text {
+	position:relative;
+	top:-230px;
+	left:32px;
+	width:760px;
+}
+
+.itemTable {
+	margin: 0px auto;
+	border-spacing: 20px 20px;
+	border-collapse: separate;
+	max-width: 900px;
+	display: block;
+	table-layout: fixed;
+	padding-top: 0px;
+	padding-left: 10px;
+}
+
+tr.topRow > th {
+	padding-bottom: 20px;
+}
+
+tr.middleDesc > th {
+	padding-bottom: 0px;
+}
+
+tr.bottomItem > td {
+	padding-top: 0px;
+	padding-bottom: 30px;
+}
+
+.printsTable {
+	margin: 0px auto;
+	border-spacing: 30px 0;
+	border-collapse: separate;
+	max-width: 900px;
+	display: block;
+	table-layout: fixed;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+
+tr.printTopRow > th {
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+
+tr.printRow > td {
+	padding-left: 0px;
+}
+
+tr.printBuyButton > td {
+	padding-bottom: 1em;
+}
+
+.reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-size: contain;
+	color:transparent !important;
+	max-width: 180px;
+    max-height: 150px;
+	min-width: 180px;
+	min-height: 150px;
+    background-size: 100% 100%;
+	border-radius: 0px;
+}
+
+.PrintsCityscapesRestaurantAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Cityscapes/cityscape_restaurant_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
+.PrintsLandscapesCherryBlossomAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Landscapes/landscape_cherry_blossoms_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
+.PrintsOtherAmericanBatikAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Other/other_american_batik_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
+.FigureDrawingAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Figure_Drawing/boxc_buy_180x150_figure_12.png);
+}
+
+.Japan1AddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Japan_I/boxc_buy_180x150_japan_12.png);
+}
+
+.RedditAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Reddit/boxc_buy_180x150_reddit_12.png);
+}
+
+.ThiefAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Thief/boxc_buy_180x150_thief_12.png);
+}
+
+.WoWAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/WoW/boxc_buy_180x150_wow_12_ver4.png);
+}
+
+.ref-button:hover {
+	color:transparent;
+}
