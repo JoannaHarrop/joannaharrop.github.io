@@ -150,6 +150,14 @@ tr.printLastBuyButton > td {
 	min-height: 40px;
 }
 
+.PrintsLandscapesAntarctica2AddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Landscapes/landscape_antarctica_2_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
 .PrintsOtherAmericanBatikAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-image: url(./images/Prints/Other/other_american_batik_buy.png);
 	max-width: 280px;
