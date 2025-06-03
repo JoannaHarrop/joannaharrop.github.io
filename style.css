@@ -45,6 +45,8 @@ footer {
 
 td.homepage-message {
 	background-image: url(./images/news_blank.png);
+	width:100%;
+    
 }
 
 tr.homepage-icons > td {
