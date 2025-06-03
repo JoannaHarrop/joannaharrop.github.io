@@ -3,7 +3,7 @@
 	border-spacing: 25px 0px;
 	padding-top: 25px;
     border-collapse: separate;
-	max-width: 1077px;
+	width: 1077px;
 }
 
 tr.homepage-image > th {
