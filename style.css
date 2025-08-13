@@ -66,7 +66,7 @@ tr.homepage-icons > td {
 
 .itemTable {
 	margin: 0px auto;
-	border-spacing: 20px 0px;
+	border-spacing: 16px 0px;
 	border-collapse: separate;
 	max-width: 900px;
 	display: block;
@@ -87,6 +87,7 @@ tr.middleDesc > th {
 tr.bottomItem > td {
 	padding-top: 20px;
 	padding-bottom: 30px;
+	padding-right: 4px;
 }
 
 tr.lastItem > td {
@@ -191,6 +192,10 @@ tr.printLastBuyButton > td {
 
 .WoWAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-image: url(./images/Books/WoW/boxc_buy_180x150_wow_12_ver4.png);
+}
+
+.MerfolkAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Merfolk/merfolk_buy.png);
 }
 
 .ref-button:hover {
