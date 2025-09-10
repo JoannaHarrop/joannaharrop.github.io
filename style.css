@@ -123,6 +123,27 @@ tr.printLastBuyButton > td {
 	padding-bottom: 0px;
 }
 
+.miscTable {
+	margin: 0px auto;
+	border-spacing: 20px 0;
+	border-collapse: separate;
+	max-width: 900px;
+	display: block;
+	table-layout: fixed;
+	padding-left: 0px;
+	padding-top: 25px;
+}
+
+tr.miscTopRow > th {
+	padding-bottom: 30px;
+	padding-left: 0px;
+	padding-top: 20px;
+}
+
+tr.miscRow > td {
+	padding-left: 0px;
+}
+
 .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-size: contain;
 	color:transparent !important;
@@ -195,7 +216,11 @@ tr.printLastBuyButton > td {
 }
 
 .MerfolkAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
-	background-image: url(./images/Books/Merfolk/merfolk_buy.png);
+	background-image: url(./images/Misc/Stickers/TeenTitans/tt_buy.png);
+	max-width: 200px;
+	max-height: 190px;
+	min-width: 200px;
+	min-height: 190px;
 }
 
 .ref-button:hover {
