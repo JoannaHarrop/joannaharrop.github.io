@@ -216,6 +216,10 @@ tr.miscRow > td {
 }
 
 .MerfolkAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Merfolk/merfolk_buy.png);
+}
+
+.TeenTitansAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-image: url(./images/Misc/Stickers/TeenTitans/tt_buy.png);
 	max-width: 200px;
 	max-height: 190px;
