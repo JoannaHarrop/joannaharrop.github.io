@@ -187,6 +187,30 @@ tr.miscRow > td {
 	min-height: 40px;
 }
 
+.PrintsFanArtHarleyQuinnAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Fanart/fanart_harleyquinn_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
+.PrintsFanArtTrinityAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Fanart/fanart_trinity_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
+.PrintsFanArtStarfireRobinAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Fanart/fanart_starfire_robin_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
 .PrintsOtherAmericanBatikAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-image: url(./images/Prints/Other/other_american_batik_buy.png);
 	max-width: 280px;
@@ -225,6 +249,14 @@ tr.miscRow > td {
 	max-height: 190px;
 	min-width: 200px;
 	min-height: 190px;
+}
+
+.PrintsMiscKryptoAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Misc/Postcards/postcards_krypto_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
 }
 
 .ref-button:hover {
