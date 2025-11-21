@@ -195,6 +195,22 @@ tr.miscRow > td {
 	min-height: 40px;
 }
 
+.PrintsFanArtRainbowAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Fanart/fanart_rainbow_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
+.PrintsFanArtPoisonIvyAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Prints/Fanart/fanart_poisonivy_buy.png);
+	max-width: 280px;
+	max-height: 40px;
+	min-width: 280px;
+	min-height: 40px;
+}
+
 .PrintsFanArtTrinityAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-image: url(./images/Prints/Fanart/fanart_trinity_buy.png);
 	max-width: 280px;
