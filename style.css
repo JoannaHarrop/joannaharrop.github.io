@@ -235,6 +235,10 @@ tr.miscRow > td {
 	min-height: 40px;
 }
 
+.AllureAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
+	background-image: url(./images/Books/Allure/lucifer_buy.png);
+}
+
 .FigureDrawingAddToCartButton > .reflow-add-to-cart.ref-product-controls > .ref-button {
 	background-image: url(./images/Books/Figure_Drawing/boxc_buy_180x150_figure_12.png);
 }
